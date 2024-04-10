@@ -13,7 +13,7 @@ namespace Juan_Diego_Silva_AtividadClase1.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult IndexCambio()
         {
             return View();
         }
